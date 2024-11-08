@@ -1,0 +1,15 @@
+{
+    "nxConsole.nxWorkspacePath": "",
+    "cSpell.words": [
+        "compat",
+        "nestjs",
+        "polyfills",
+        "preinstall",
+        "sass",
+        "typecheck"
+    ],
+    "prettier.htmlWhitespaceSensitivity": "strict",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true
+}
